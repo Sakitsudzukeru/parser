@@ -1,0 +1,13 @@
+node_modules/
+
+config/.env
+
+# work folders
+sdr/
+sdr/actual/
+sdr/history/
+sdr/failed/
+uploads/
+
+#test file
+test-sample.cdr
